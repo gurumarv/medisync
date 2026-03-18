@@ -1,0 +1,20 @@
+﻿# Firebase — never commit this, contains your project credentials
+google-services.json
+
+# Android generated files
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Keystore — never commit signing keys
+*.keystore
+*.jks
+
+# OS files
+.DS_Store
+Thumbs.db

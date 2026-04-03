@@ -51,6 +51,7 @@
             android:name=".HistoryActivity"
             android:exported="false" />
 
+
         <!-- WorkManager: ReminderWorker needs this provider to function -->
         <provider
             android:name="androidx.startup.InitializationProvider"
